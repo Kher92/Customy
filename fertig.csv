@@ -1,0 +1,21 @@
+Ort,Fachrichtung,anzahl,gesamt_wert,gesamt_stuck,Label
+Berlin,HNO,126,171093.91999999998,2789.0,Berlin - HNO
+Hamburg,HNO,69,122690.24,2029.0,Hamburg - HNO
+Frankfurt am Main,HNO,32,65025.5,827.0,Frankfurt am Main - HNO
+München,HNO,49,63157.02,944.0,München - HNO
+Hamburg,PAE,71,50877.42,953.0,Hamburg - PAE
+Berlin,PAE-AL,13,40578.490000000005,896.0,Berlin - PAE-AL
+Berlin,PAE,129,39192.99,846.0,Berlin - PAE
+Düsseldorf,PUL-AL,3,37923.869999999995,566.0,Düsseldorf - PUL-AL
+Berlin,HNO-AL,26,36157.87,635.0,Berlin - HNO-AL
+Leipzig,HNO,23,35662.86,399.0,Leipzig - HNO
+Hannover,HNO,23,31992.89,490.0,Hannover - HNO
+Düsseldorf,HNO,20,31524.710000000003,499.0,Düsseldorf - HNO
+München,PUL-AL,9,31143.46,436.0,München - PUL-AL
+Bielefeld,HNO,12,28196.89,430.0,Bielefeld - HNO
+Bonn,HNO,18,28166.42,427.0,Bonn - HNO
+Stuttgart,HNO,23,27814.32,469.0,Stuttgart - HNO
+Bingen am Rhein,HNO,2,26600.359999999997,439.0,Bingen am Rhein - HNO
+Köln,HNO,30,25494.85,378.0,Köln - HNO
+Leipzig,HNO-AL,9,25347.149999999998,303.0,Leipzig - HNO-AL
+Augsburg,HNO,10,21223.2,289.0,Augsburg - HNO
